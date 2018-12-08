@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Antoine Nguyen - Développeur web</title>
-    <link>nguyenantoine.github.io/tags/</link>
+    <link>nguyenantoine.com/tags/</link>
     <description>Recent content in Tags on Antoine Nguyen - Développeur web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
     
-	<atom:link href="nguyenantoine.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="nguyenantoine.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
